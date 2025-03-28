@@ -2,28 +2,7 @@
 import warnings
 warnings.filterwarnings("ignore")
 
-import streamlit as st
-import numpy as np
-import pandas as pd
-#import lightfm as lf
-#import nmslib
-#import pickle
-#import scipy.sparse as sparse
-#import plotly.express as px
-
-# num1 = int(input('Please, enter a number: '))
-# num2 = int(input('Please, enter another number: '))
-# action = input('Select action: +, -, *, /:')
-
-# if action =='+':
-#     print(f'The result is: {num1 + num2}')
-# elif action =='-':
-#     print(f'The result is: {num1 - num2}')
-# elif action =='*':
-#     print(f'The result is: {num1 * num2}')
-# elif action =='/':
-#     print(f'The result is: {num1 / num2}')
-    
+import streamlit as st    
 
 # Реализуем интерфейс приложения
 
