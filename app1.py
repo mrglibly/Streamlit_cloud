@@ -27,7 +27,7 @@ action = st.selectbox(label='Select an option for action:',options=['+',' - ', '
 
 if action =='+':
     output = num1 + num2
-elif action =='-':
+elif action ==' - ':
     output = num1 - num2
 elif action =='*':
     output = num1 * num2
